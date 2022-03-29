@@ -1,0 +1,6 @@
+User-Agent:*
+Allow:/
+
+
+User-Agent:*
+Sitemap : https://mustafakemalaktas.site/sitemap.xml

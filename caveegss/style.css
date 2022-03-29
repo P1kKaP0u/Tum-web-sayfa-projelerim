@@ -1,0 +1,131 @@
+@charset "utf-8";
+/*Css Document*/
+body
+{
+    background-color: #E8E8CC;
+    font-family: sans-serif;
+}
+
+body a:hover
+{
+color: white;
+}
+
+.card-bg 
+{
+    background-color: #E8E8CC;
+    
+}
+
+.nav-bg 
+{
+    background-color: #146c43;
+}
+
+.footer-bg 
+{
+    background-color: #479f76;
+}
+
+.nav-link
+{   
+    color:white;
+    font-size: large;
+    font-weight: 400;
+    border-radius: 5px;
+       
+}
+
+
+.nav-link:hover
+{
+    transition: color .2s;
+    background-color: rgba(0, 0, 0, 0.158);
+}
+
+
+.iframe-video
+{
+    width: 100%;
+    height: 432px;
+}
+
+.foot-link
+{
+    color: white;
+}
+
+.bg-project
+{
+    background-image: url(image/bg-for-project1.jpg)
+}
+
+.bg-news
+{
+    background-image: url(image/bg-for-news.jpg)
+}
+
+.bg-news-cont
+{
+    background-color: #E8E8CC;
+}
+
+.iletisim-icon-text
+{
+    color: white;
+}
+
+.iletisim-icon-text:hover
+{
+    transition: 0.2s;
+    color: red;
+}
+
+.iletisim-hiza
+{
+    display: flex;
+    margin-top:50px;
+    margin-bottom: 20px;
+}
+
+.yukari
+{
+    height: 50px;
+    width: 50px;
+    display:none;
+    text-decoration: none;
+    font-size:35px;
+    text-align: center;
+    line-height:50px;
+    position:fixed;
+    right: 20px;
+    bottom: 20px;
+    border-radius: 0.3rem;
+    border: solid;
+    transform: rotate(180deg);
+    transition: all 0.7s ease;
+    
+}
+
+.yukari:hover
+{
+    transition: all 0.7s ease;
+    transform: rotate(0deg);
+}
+
+.proje-bg 
+{
+
+    background-image: url(image/proje-bg.jpg);
+    background-repeat: no-repeat;
+    background-size: 100;
+  
+}
+
+.proje-modal
+{
+
+margin-top:  250px;
+margin-bottom: 350px;
+
+}

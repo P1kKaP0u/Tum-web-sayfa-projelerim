@@ -1,0 +1,72 @@
+@charset "utf-8";
+/*Css Document*/
+
+.nav-link
+{
+    color:black;
+    font-weight: 500;
+    font-size: medium;
+}
+
+
+.nav-link:hover
+{
+    transition: color .2s;
+    color: red;
+}
+
+.aktif-buton
+{
+    color: red;
+}
+
+.footer-list-item
+{
+    color: black;
+}
+
+.yazıbg
+{
+
+    background-color: rgba(0, 0, 0, 0.750);
+	border-radius: 20px;
+    
+}
+
+.scrollspy a
+{
+    color: black;
+    font-size: large;
+    
+}
+
+.scrollspy a:hover
+{
+    transition: 0.3s;
+    color: red;
+}
+
+.gridsystem
+{
+    color: white;
+    text-align: center;
+    font-size: x-large;
+    margin-top: 25%;
+    margin-bottom: 15%;
+    background-color: rgba(0, 0, 0, 0.750);
+	border-radius: 20px;
+}
+
+.gridsystem a
+{
+    color: white;
+    font-size: larger;
+}
+
+.gridsystem a:hover
+{
+    transition: .4s;
+    color: red;
+}
+
+
